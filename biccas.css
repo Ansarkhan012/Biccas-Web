@@ -15,8 +15,10 @@
 }
 .logo{
     margin: 20px;
+    font-weight: 800;
+    font-size: 18px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
-    color: rgb(236, 159, 16);
+    color: rgb(247, 78, 27);
 }
 .nav-items{
     margin: 30px 260px;
@@ -33,7 +35,7 @@
     transition: all 0.3s linear;
 }
 .nav-items a:hover{
-    color: rgb(236, 159, 16);
+    color: rgb(247, 78, 27);
     
 }
 
@@ -57,7 +59,7 @@
     transition: all 0.3s linear;
 }
 .nav-items2 a:hover{
-    background-color: rgb(236, 159, 16);
+    background-color: rgb(247, 78, 27);
     color: white;
 }
 
@@ -88,7 +90,7 @@
     margin-top: 40px;
     padding: 5px;
     border: 1px solid rgb(219, 219, 219);
-    background-color: rgb(236, 159, 16);
+    background-color: rgb(247, 78, 27);
     color: white; 
 }
 .main{
